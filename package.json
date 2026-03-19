@@ -1,0 +1,16 @@
+{
+  "name": "com.outputenable.inputsystemextensions",
+  "displayName": "InputSystemExtensions",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Adds custom composites and interactions to Unity's Input System.",
+  "dependencies": {
+    "com.unity.inputsystem": "1.18.0"
+  },
+  "changelogUrl": "https://github.com/M-Horth21/InputSystemExtensions/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/M-Horth21/InputSystemExtensions/blob/main/README.md",
+  "author": {
+    "name": "Output Enable Studio"
+  },
+  "licensesUrl": "https://github.com/M-Horth21/InputSystemExtensions/blob/main/LICENSE.md"
+}
